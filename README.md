@@ -22,12 +22,14 @@ int main() {
   return 0;
 }
 ```
-##Limitations
+
+
+## Limitations
 
     The connector currently only supports GET requests.
     The connector does not handle errors or rate limits from the Binance API.
 
-##Future Improvements
+## Future Improvements
 
     Add support for POST, PUT, and DELETE requests.
     Implement error handling and rate limit handling.
