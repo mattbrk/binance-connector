@@ -21,7 +21,7 @@ int main() {
   std::cout << "Total BTC balance: " << data["balances"][0]["free"] << std::endl;
   return 0;
 }
-
+```
 ##Limitations
 
     The connector currently only supports GET requests.
